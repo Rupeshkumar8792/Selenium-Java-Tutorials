@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-25T12:47:29 IST" name="Default suite" finished-at="2024-03-25T12:47:37 IST" duration-ms="8178">
+  <suite started-at="2024-03-25T14:33:56 IST" name="Default suite" finished-at="2024-03-25T14:34:07 IST" duration-ms="11468">
     <groups>
     </groups>
-    <test started-at="2024-03-25T12:47:29 IST" name="Default test" finished-at="2024-03-25T12:47:37 IST" duration-ms="8178">
-      <class name="SeleniumCodes.SeleniumPractiseCodes.actionClass.DragAndDrop">
-        <test-method signature="dragAndDrop()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.actionClass.DragAndDrop@619713e5]" started-at="2024-03-25T12:47:29 IST" name="dragAndDrop" finished-at="2024-03-25T12:47:37 IST" duration-ms="8150" status="PASS">
+    <test started-at="2024-03-25T14:33:56 IST" name="Default test" finished-at="2024-03-25T14:34:07 IST" duration-ms="11468">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.actionClass.RightClick">
+        <test-method signature="rightClick()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.actionClass.RightClick@619713e5]" started-at="2024-03-25T14:33:56 IST" name="rightClick" finished-at="2024-03-25T14:34:07 IST" duration-ms="11436" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dragAndDrop -->
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.actionClass.DragAndDrop -->
+        </test-method> <!-- rightClick -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.actionClass.RightClick -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
