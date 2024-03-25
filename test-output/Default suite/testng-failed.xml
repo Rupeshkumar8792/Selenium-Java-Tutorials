@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumCodes.SeleniumPractiseCodes.actionClass.DragAndDrop">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.actionClass.RightClick">
         <methods>
-          <include name="dragAndDrop"/>
+          <include name="rightClick"/>
         </methods>
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.actionClass.DragAndDrop -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.actionClass.RightClick -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
