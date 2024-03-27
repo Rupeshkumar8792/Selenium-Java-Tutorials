@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-26T09:36:12 IST" name="Default suite" finished-at="2024-03-26T09:36:18 IST" duration-ms="6137">
+  <suite started-at="2024-03-27T08:00:40 IST" name="Default suite" finished-at="2024-03-27T08:00:49 IST" duration-ms="9546">
     <groups>
     </groups>
-    <test started-at="2024-03-26T09:36:12 IST" name="Default test" finished-at="2024-03-26T09:36:18 IST" duration-ms="6137">
-      <class name="SeleniumCodes.SeleniumPractiseCodes.assertions.SoftAssertExample">
-        <test-method signature="softAssert()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.assertions.SoftAssertExample@2c767a52]" started-at="2024-03-26T09:36:12 IST" name="softAssert" finished-at="2024-03-26T09:36:18 IST" duration-ms="6100" status="PASS">
+    <test started-at="2024-03-27T08:00:40 IST" name="Default test" finished-at="2024-03-27T08:00:49 IST" duration-ms="9546">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.basicLocators.CSS_Selector">
+        <test-method signature="cssLocator()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.locators.basicLocators.CSS_Selector@619713e5]" started-at="2024-03-27T08:00:40 IST" name="cssLocator" finished-at="2024-03-27T08:00:49 IST" duration-ms="9515" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- softAssert -->
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.assertions.SoftAssertExample -->
+        </test-method> <!-- cssLocator -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.basicLocators.CSS_Selector -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
