@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.basicLocators.ID_Locator">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.frames.FramesHandling">
         <methods>
-          <include name="idLocator"/>
+          <include name="frames"/>
         </methods>
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.basicLocators.ID_Locator -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.frames.FramesHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
