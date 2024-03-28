@@ -13,15 +13,16 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Locator_Using_and 
 {
 	@Test
-	public void partialLinkTextLocator()
+	public void xpathUsingAndFunction()
 	{
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
-		driver.get("https://www.nseindia.com/");
+		driver.get("https://letcode.in/frame");
 		
-		WebElement option = driver.findElement(By.xpath("//input[@id=\"fullName\" and @type=\"text\"]"));
+		WebElement input = driver.findElement(By.xpath("//input[@name=\"fname\" and @placeholder=\"Enter name\"]"));
 		
+		input.sendKeys("Rupeshkumar");
 	}
 }
