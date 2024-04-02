@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-02T20:03:21 IST" name="Default suite" finished-at="2024-04-02T20:03:25 IST" duration-ms="3476">
+  <suite started-at="2024-04-02T21:22:04 IST" name="Default suite" finished-at="2024-04-02T21:22:16 IST" duration-ms="11588">
     <groups>
     </groups>
-    <test started-at="2024-04-02T20:03:21 IST" name="Default test" finished-at="2024-04-02T20:03:25 IST" duration-ms="3476">
-      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.Locator_Using_startswith">
-        <test-method signature="xpathUsingStartsWithFunction()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.Locator_Using_startswith@619713e5]" started-at="2024-04-02T20:03:21 IST" name="xpathUsingStartsWithFunction" finished-at="2024-04-02T20:03:25 IST" duration-ms="3444" status="PASS">
+    <test started-at="2024-04-02T21:22:04 IST" name="Default test" finished-at="2024-04-02T21:22:16 IST" duration-ms="11588">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingPrecedingSibling">
+        <test-method signature="xpathUsingPrecedingSibling()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingPrecedingSibling@619713e5]" started-at="2024-04-02T21:22:04 IST" name="xpathUsingPrecedingSibling" finished-at="2024-04-02T21:22:16 IST" duration-ms="11551" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- xpathUsingStartsWithFunction -->
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.Locator_Using_startswith -->
+        </test-method> <!-- xpathUsingPrecedingSibling -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingPrecedingSibling -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

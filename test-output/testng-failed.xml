@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumCodes.SeleniumPractiseCodes.frames.FramesHandling">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingFollowingSibling">
         <methods>
-          <include name="frames"/>
+          <include name="xpathUsingFollowingSibling"/>
         </methods>
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.frames.FramesHandling -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingFollowingSibling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
