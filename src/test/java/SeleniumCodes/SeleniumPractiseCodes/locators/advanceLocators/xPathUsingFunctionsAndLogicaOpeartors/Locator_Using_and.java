@@ -1,4 +1,4 @@
-package SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators;
+package SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingFunctionsAndLogicaOpeartors;
 
 import java.time.Duration;
 
