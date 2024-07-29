@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-02T21:22:04 IST" name="Default suite" finished-at="2024-04-02T21:22:16 IST" duration-ms="11588">
+  <suite started-at="2024-07-29T22:12:02 IST" name="Default suite" finished-at="2024-07-29T22:12:39 IST" duration-ms="36850">
     <groups>
     </groups>
-    <test started-at="2024-04-02T21:22:04 IST" name="Default test" finished-at="2024-04-02T21:22:16 IST" duration-ms="11588">
-      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingPrecedingSibling">
-        <test-method signature="xpathUsingPrecedingSibling()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingPrecedingSibling@619713e5]" started-at="2024-04-02T21:22:04 IST" name="xpathUsingPrecedingSibling" finished-at="2024-04-02T21:22:16 IST" duration-ms="11551" status="PASS">
+    <test started-at="2024-07-29T22:12:02 IST" name="Default test" finished-at="2024-07-29T22:12:39 IST" duration-ms="36850">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.webTable.WebTable">
+        <test-method signature="webtableHandling()[pri:0, instance:SeleniumCodes.SeleniumPractiseCodes.webTable.WebTable@2667f029]" started-at="2024-07-29T22:12:03 IST" name="webtableHandling" finished-at="2024-07-29T22:12:39 IST" duration-ms="36795" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- xpathUsingPrecedingSibling -->
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingPrecedingSibling -->
+        </test-method> <!-- webtableHandling -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.webTable.WebTable -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingFollowingSibling">
+      <class name="SeleniumCodes.SeleniumPractiseCodes.webTable.WebTable">
         <methods>
-          <include name="xpathUsingFollowingSibling"/>
+          <include name="webtableHandling"/>
         </methods>
-      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.locators.advanceLocators.xPathUsingAxes.XpathUsingFollowingSibling -->
+      </class> <!-- SeleniumCodes.SeleniumPractiseCodes.webTable.WebTable -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
